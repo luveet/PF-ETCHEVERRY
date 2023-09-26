@@ -470,6 +470,7 @@ h2 {
 .datos h1 {
   text-decoration: underline;
   margin-bottom: 20px;
+  color: #B08968;
 }
 
 .formulario {
@@ -489,7 +490,7 @@ h2 {
   margin-bottom: 20px;
   margin-top: 20px;
   font-family: Libre Basrkeville;
-  color: black;
+  color: #B08968;
 }
 .formulario .nombrecompleto {
   height: 30px;
@@ -517,8 +518,9 @@ h2 {
   display: flex;
   justify-content: center;
   float: left;
-  margin-left: 100px;
+  margin-left: 25%;
   text-decoration: underline;
+  color: #B08968;
 }
 .ubicacion .mapa {
   margin-left: 20px;
@@ -528,6 +530,8 @@ h2 {
 .boton-formulario {
   margin-top: 15px;
   padding: 5px;
+  background-color: #B08968;
+  color: rgb(255, 255, 255);
 }
 
 .contacto {
